@@ -1,0 +1,42 @@
+{
+    "name": "Chrissyx IPA Library",
+    "identifier": "com.chrissyx.test",
+    "subtitle": "Chrissyx test ipa library",
+    "iconURL": "https:\/\/repo.cypwn.xyz\/assets\/images\/cypwn_small.png",
+    "website": "https:\/\/ipa.cypwn.xyz",
+    "sourceURL": "https:\/\/ipa.cypwn.xyz\/cypwn.json",
+    "tintColor": "FFC300",
+    "featuredApps": [
+        "chrissyx.store"
+    ],
+    "crypto": {
+        "btc": "xxx"
+    },
+    "apps": [
+        {
+            "name": "Speedtest_VPN_Premium_5.4.0",
+            "bundleIdentifier": "com.ookla.speedtest",
+            "developerName": "Speedtest_VPN_Premium_5.4.0 x CyPwn",
+            "version": "5.4.0",
+            "versionDate": "2024-06-04",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Speedtest_VPN_Premium_5.4.0.ipa",
+            "localizedDescription": "Premium unlimited VPN",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Speedtest_VPN_Premium_5.4.0.png",
+            "tintColor": "FFC300",
+            "size": 54525952,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Speedtest_VPN_Premium_5.4.0\/Speedtest_VPN_Premium_5.4.0-0.png"
+            ]
+        },
+        {
+            "title": "Deezer++iOS15 now available!",
+            "identifier": "cypwn.Deezer++iOS15.7.15.0",
+            "caption": "Deezer++iOS15 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Deezer++iOS15.png",
+            "date": "2022-04-09",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        }
+    ]
+}
