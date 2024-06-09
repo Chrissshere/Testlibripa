@@ -44,14 +44,14 @@
             ]
         },
         {
-            "name": "testipa XCode",
-            "bundleIdentifier": "com.crissyx.testipa",
+            "name": "????",
+            "bundleIdentifier": "com.crissyx.???",
             "developerName": "Chrissyx Limited 24",
             "version": "1.0.1",
             "versionDate": "2024-06-08",
             "downloadURL": "https://dl.orangedox.com/iHDVF4qRm89AIQCqGC?dl=1",
             "localizedDescription": "First ipa to repo. This is an app that will be created with swift and tested. You can't use it though. Password protected.",
-            "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Settings_%28iOS%29.png/768px-Settings_%28iOS%29.png",
+            "iconURL": "?",
             "tintColor": "FFC300",
             "size": 790259,
             "screenshotURLs": [
